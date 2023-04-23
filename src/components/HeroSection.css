@@ -12,3 +12,12 @@ p {
   margin-bottom: 2rem;
   text-align: center;
 }
+
+.showcase-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

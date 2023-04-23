@@ -7,7 +7,7 @@ function Navbar() {
       <h1 className="logo">ALK</h1>
       <a
         className="navbar__link"
-        href="https://drive.google.com/file/d/1pTc0tyOTbkGIgSAEJh5plFdf3O094uuN/view?usp=share_link"
+        href="https://drive.google.com/file/d/1cMupCXUnuOjIQLnE8fVwQg85Kolcwsz0/view?usp=share_link"
       >
         Resume
       </a>
