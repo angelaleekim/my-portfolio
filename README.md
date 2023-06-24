@@ -5,5 +5,5 @@ Thank you for visiting my portfolio!
 
 ## Contact
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: [angelalkim10@gmail.com](mailto:angelalkim10@gmail.com)
+- LinkedIn: [www.linkedin.com/in/angela-kim10](www.linkedin.com/in/angela-kim10)
