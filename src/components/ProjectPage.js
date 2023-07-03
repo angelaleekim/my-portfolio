@@ -16,9 +16,10 @@ const ProjectPage = ({
       <Navbar />
       <div className="project-page">
         <div className="media">
-          <div className="image-container">
+          <video src={demo} autoPlay muted loop></video>
+          {/* <div className="image-container">
             <img src={images[0]} alt={`Image`} />
-          </div>
+          </div> */}
         </div>
         <h2>{title}</h2>
         <p className="subheading">{date}</p>
@@ -33,19 +34,11 @@ const ProjectPage = ({
         </div>
         <div className="resource-buttons">
           <div className="project-links">
-            <a className="demo" href={demo} target="_blank">
-              Project Demo
-            </a>
             <a className="code" href={code} target="_blank">
               Git Repo
             </a>
           </div>
         </div>
-      </div>
-      <div className="image-container-2">
-        {images.slice(1).map((image) => (
-          <img className="sub-image" src={image} alt={`Image`} />
-        ))}
       </div>
     </div>
   );
