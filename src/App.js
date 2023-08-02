@@ -5,7 +5,7 @@ import projects from "./components/Projects";
 import ProjectPage from "./components/ProjectPage.js";
 
 function App() {
-  projects.map((project) => console.log(project.route, project.id));
+  // projects.map((project) => console.log(project.route, project.id));
   return (
     <Router>
       <Routes>
