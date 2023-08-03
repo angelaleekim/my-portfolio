@@ -1,29 +1,23 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./ProjectShowcase.css";
 
 const ProjectShowcase = ({ project }) => {
   return (
     <div className="project-container">
-      <a href="#">
-        <img
-          className="project-image"
-          src={project.image}
-          alt={project.title}
-        />
-      </a>
+      <Link to={project.route}>
+        <img className="project-image" src={project.images[0]} alt={`Image}`} />
+      </Link>
 
       <div className="project-info">
         <h2 className="project-title">{project.title}</h2>
-        <p className="project-description">{project.description}</p>
         <ul className="project-technologies">
           {project.technologies.map((tech, index) => (
             <li key={index}>{tech}</li>
           ))}
         </ul>
         <div className="project-links">
-          <a href={project.code} target="_blank" rel="noopener noreferrer">
-            View Project
-          </a>
+          <Link to={`${project.route}`}>View Project</Link>
         </div>
       </div>
     </div>
