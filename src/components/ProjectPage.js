@@ -34,7 +34,7 @@ const ProjectPage = ({
         </div>
         <div className="resource-buttons">
           <div className="project-links">
-            <a className="code" href={code} target="_blank">
+            <a className="code" href={code} target="_blank" rel="noreferrer">
               Git Repo
             </a>
           </div>
