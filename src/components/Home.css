@@ -1,0 +1,59 @@
+body {
+  font-weight: 500;
+  font-family: "Apercu-Regular";
+  color: rgb(62, 62, 62);
+}
+
+h1 {
+  font-family: "Apercu-Mono";
+  font-weight: 500;
+}
+
+h2 {
+  font-weight: 500;
+  font-family: "Apercu-Regular";
+  color: rgb(62, 62, 62);
+}
+
+.text-box {
+  margin-top: 10%;
+  animation: 1.7s fadeInUp;
+  width: 70%;
+  text-align: left;
+}
+
+.title-1 {
+  font-family: "Gooper";
+  font-size: 300%;
+  letter-spacing: 4px;
+  margin-bottom: 0.5em;
+  font-style: italic;
+  text-align: left;
+  transition: transform 0.5s ease;
+  background: linear-gradient(90deg, #f2a6bd, #444aa7);
+  background-clip: text;
+  color: transparent;
+  line-height: 1.2;
+}
+
+.text-box p {
+  text-align: left;
+  line-height: 2;
+  font-size: 24px;
+  width: 80%;
+}
+
+.text-box:hover .title-1 {
+  transform: translateY(-5px);
+}
+
+@keyframes fadeInUp {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
+}

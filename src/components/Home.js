@@ -1,11 +1,13 @@
 import React from "react";
 import Navbar from "./Navbar";
-import HeroSection from "./HeroSection";
+import ProjectSection from "./ProjectSection";
+import AboutMe from "./AboutMe";
 const Home = () => {
   return (
     <div>
       <Navbar />
-      <HeroSection />
+      <AboutMe />
+      <ProjectSection />
     </div>
   );
 };

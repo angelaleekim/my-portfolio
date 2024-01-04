@@ -1,7 +1,19 @@
 @font-face {
-  font-family: "Regular"; /*Can be any text*/
-  src: local("ApercuRegular"),
+  font-family: "Apercu-Regular"; /*Can be any text*/
+  src: local("Apercu-Regular"),
     url("./assets/fonts/Apercu\ Pro\ Regular.otf") format("opentype");
+
+  font-family: "Apercu-Mono"; /*Can be any text*/
+  src: local("Apercu-Mono"),
+    url("./assets/fonts/Apercu\ Pro\ Mono.otf") format("opentype");
+
+  font-family: "Gooper-Regular"; /*Can be any text*/
+  src: local("Gooper-Regular"),
+    url("./assets/fonts/Gooper-RegularItalic.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
 }
 
 code {
