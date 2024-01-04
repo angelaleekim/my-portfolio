@@ -11,7 +11,7 @@ function Navbar() {
 
       <a
         className="navbar__link"
-        href="https://drive.google.com/file/d/1CinHbPPfEjWt5UoIKLZG73-TvMHsSB_R/view?usp=sharing"
+        href="https://drive.google.com/file/d/1hYg0jwzV0bldlyfeu90wRCJtkjMFdzeJ/view?usp=sharing"
       >
         Resume
       </a>
