@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <Link to="/" className="logo">
-        <h1>ALK</h1>
+        <h1>AK</h1>
       </Link>
 
       <a

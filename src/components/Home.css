@@ -5,13 +5,14 @@ body {
 }
 
 h1 {
-  font-family: "Apercu-Mono";
   font-weight: 500;
 }
 
-h2 {
-  font-weight: 500;
-  font-family: "Apercu-Regular";
+h2,
+h3 {
+  font-weight: 400;
+  font-family: "Gooper";
+  font-style: italic;
   color: rgb(62, 62, 62);
 }
 
@@ -33,7 +34,7 @@ h2 {
   background: linear-gradient(90deg, #f2a6bd, #444aa7);
   background-clip: text;
   color: transparent;
-  line-height: 1.2;
+  line-height: 2;
 }
 
 .text-box p {
@@ -45,6 +46,10 @@ h2 {
 
 .text-box:hover .title-1 {
   transform: translateY(-5px);
+}
+
+.sub-text {
+  background-color: aquamarine;
 }
 
 @keyframes fadeInUp {

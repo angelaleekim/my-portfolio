@@ -13,6 +13,14 @@
   font-weight: 500;
   text-decoration: none;
   color: rgb(62, 62, 62);
+  font-family: "Gooper";
+  font-style: italic;
+  text-transform: lowercase;
+  text-align: left;
+  background: linear-gradient(90deg, #f2a6bd, #444aa7);
+  background-clip: text;
+  color: transparent;
+  line-height: 2;
 }
 
 .navbar__link {

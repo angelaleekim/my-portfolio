@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 import "./ProjectPage.css";
+import "./Home.css";
 
 const ProjectPage = ({
   title,
