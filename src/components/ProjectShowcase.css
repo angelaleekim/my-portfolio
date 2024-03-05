@@ -11,8 +11,12 @@
   transition: all 0.4s ease;
 }
 
+.project-container:hover {
+  transform: translateY(-7px);
+}
+
 .project-image {
-  width: auto;
+  width: 96;
   height: 12rem;
   border-radius: 10px;
   margin-bottom: 10px;

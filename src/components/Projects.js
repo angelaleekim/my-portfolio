@@ -2,6 +2,23 @@
 
 const projects = [
   {
+    title: "Uncluttered",
+    date: "Frontend Developer | September 2023 - Present",
+    id: 1,
+    route: "/uncluttered",
+    description: `I am currently developing and styled React components for a task management web application called Uncluttered, a project created by a team of 5 students at Cal Poly San Luis Obispo.
+
+As a frontend developer, some of my tasks include wireframing our project in Figma, creating frontend React components such as the welcome and login pages, and styling our entire application with Tailwind. `,
+    technologies: ["React", "TailwindCSS", "Figma", "Node.js"],
+    demo: "https://private-user-images.githubusercontent.com/62783989/310289743-4d530ba7-339d-4615-a969-025f06a48b4a.mov?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2NzgwMzQsIm5iZiI6MTcwOTY3NzczNCwicGF0aCI6Ii82Mjc4Mzk4OS8zMTAyODk3NDMtNGQ1MzBiYTctMzM5ZC00NjE1LWE5NjktMDI1ZjA2YTQ4YjRhLm1vdj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA1VDIyMjg1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIzMGU4N2IwNmQxNzFjOTg1MDNiZmI0N2I1NmM2YzVmMWFiODBiZjkxYTZlZmNlYzQxMGFkYzkxZDc0NjJlYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._giWGOaExP3530TzkUEqR_JmCcSAYTNiGtl450HaLPA",
+    code: "https://github.com/angelaleekim/mlflow-demo",
+    images: [
+      "https://private-user-images.githubusercontent.com/62783989/310288753-1cc3dc43-10e0-465a-a232-69c0ef2ef792.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2NzU0NTUsIm5iZiI6MTcwOTY3NTE1NSwicGF0aCI6Ii82Mjc4Mzk4OS8zMTAyODg3NTMtMWNjM2RjNDMtMTBlMC00NjVhLWEyMzItNjljMGVmMmVmNzkyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA1VDIxNDU1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlN2Y4OWNlM2I4MTQyZTM1ODM4MGQ4NzgxMmY5NTQyZjk5YTI1ODA2ZWQyZDIyMmYwZDMyMDVhMzM5ZGIzMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FoOpRZXj95nnhtuKNqCMTRhDRkj30bD0iYO57Bdzb90",
+      "https://user-images.githubusercontent.com/62783989/246952635-af1ad0b6-4ff5-4228-be02-9afcf9bf12c9.png",
+      "https://user-images.githubusercontent.com/62783989/246952715-b50d93ec-36fe-4e16-8db5-f87bd04544ec.png",
+    ],
+  },
+  {
     title: "Mindbody + Classpass",
     date: "Software Engineering Intern | June 2022 - September 2022",
     id: 1,

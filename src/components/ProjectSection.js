@@ -11,7 +11,7 @@ const HeroSection = () => {
       <h1 className="title-1">my projects</h1>
       <div className="showcase-container">
         {projects.map((project, index) => (
-          <ProjectShowcase key={index} project={project} />
+          <ProjectShowcase className="proj" key={index} project={project} />
         ))}
       </div>
     </div>

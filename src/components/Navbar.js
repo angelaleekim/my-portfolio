@@ -12,7 +12,7 @@ function Navbar() {
 
       <a
         className="navbar__link"
-        href="https://drive.google.com/file/d/1lpdDkiX2b0yPBH3usli6M0xWhWNXyo65/view?usp=sharing"
+        href="https://drive.google.com/file/d/13DIU9s4muEwdsafJ_MlBIf4I-6b-gM1I/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
