@@ -6,7 +6,7 @@ const projects = [
     date: "Frontend Developer | September 2023 - Present",
     id: 1,
     route: "/uncluttered",
-    description: `I am currently developing and styled React components for a task management web application called Uncluttered, a project created by a team of 5 students at Cal Poly San Luis Obispo.
+    description: `I am currently developing and styling React components for a task management web application called Uncluttered, a project created by a team of 5 students at Cal Poly San Luis Obispo.
 
 As a frontend developer, some of my tasks include wireframing our project in Figma, creating frontend React components such as the welcome and login pages, and styling our entire application with Tailwind. `,
     technologies: ["React", "TailwindCSS", "Figma", "Node.js"],
@@ -30,7 +30,7 @@ Additionally, I led an impactful A/B testing experiment focused on optimizing th
     demo: "https://user-images.githubusercontent.com/62783989/250471902-825f21b9-7957-427c-a1e5-b80db8a78c85.mp4",
     code: "https://github.com/angelaleekim/mlflow-demo",
     images: [
-      "https://ewscripps.brightspotcdn.com/dims4/default/22bee49/2147483647/strip/true/crop/1120x630+40+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc5%2Fbf%2Fb8ca2c624de2897f231427128f12%2Fmb-cp-1200x630px.png",
+      "https://private-user-images.githubusercontent.com/62783989/310302182-6c2cf53b-e792-4b2d-971d-852edbdb3cfc.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2NzkwODQsIm5iZiI6MTcwOTY3ODc4NCwicGF0aCI6Ii82Mjc4Mzk4OS8zMTAzMDIxODItNmMyY2Y1M2ItZTc5Mi00YjJkLTk3MWQtODUyZWRiZGIzY2ZjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA1VDIyNDYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJhYTY5MmRlN2ZiYmI2MmI0NGZjMjcwOTVlYzE3OWJkNTBlMjE0N2YyMzAyNDNkYmQxOGJlMjJlNDI5N2VjMjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ocH_Gp4w4f9rclMgkYte2oX4CYzMVxXYn1XBAuzPypQ",
       "https://user-images.githubusercontent.com/62783989/246952635-af1ad0b6-4ff5-4228-be02-9afcf9bf12c9.png",
       "https://user-images.githubusercontent.com/62783989/246952715-b50d93ec-36fe-4e16-8db5-f87bd04544ec.png",
     ],
@@ -40,13 +40,14 @@ Additionally, I led an impactful A/B testing experiment focused on optimizing th
     date: "Software Developer | October 2021 - June 2022",
     id: 2,
     route: "/slobg",
-    description:
-      "As a software developer for Hack4Impact, I had the opportunity to collaborate with a talented team of six individuals on an inspiring project: designing and building an active volunteer management platform for the SLO Botanical Garden. Taking on the responsibility of developing front-end components, I ensured the seamless display of administration announcements and the effective tracking of volunteer contributions and progress. Throughout the project, I actively engaged in code reviews and actively communicated with my team members during our weekly standup meetings. This experience not only sharpened my technical skills but also allowed me to cultivate strong communication and collaboration abilities. By working together harmoniously, we created a platform that has greatly improved the efficiency and impact of volunteer management for the SLO Botanical Garden, positively impacting the community we serve.",
+    description: `As a software developer for Hack4Impact, I had the opportunity to collaborate with a team of six individuals on an active volunteer management platform for the SLO Botanical Garden. Taking on the responsibility of developing front-end components, I ensured the seamless display of administration announcements and the effective tracking of volunteer contributions and progress. Throughout the project, I actively engaged in code reviews and actively communicated with my team members during our weekly standup meetings. 
+      
+This experience not only sharpened my technical skills but also allowed me to cultivate strong communication and collaboration abilities.By working together harmoniously, we created a platform that has greatly improved the efficiency and impact of volunteer management for the SLO Botanical Garden, positively impacting the community we serve.`,
     technologies: ["React", "Node.js", "MongoDB"],
     demo: "https://user-images.githubusercontent.com/62783989/248520364-d007bb96-cb7a-425a-96cf-f2d9fa8c3bad.mp4",
     code: "https://github.com/hack4impact-calpoly/sloBotanicalGarden22",
     images: [
-      "https://sanluisobispoguide.com/wp-content/uploads/2023/01/green-white-rect-logo-scaled.jpg",
+      "https://private-user-images.githubusercontent.com/62783989/310301566-b5754c04-5bd9-434f-aea1-88d4ba762662.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2Nzg4NzgsIm5iZiI6MTcwOTY3ODU3OCwicGF0aCI6Ii82Mjc4Mzk4OS8zMTAzMDE1NjYtYjU3NTRjMDQtNWJkOS00MzRmLWFlYTEtODhkNGJhNzYyNjYyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA1VDIyNDI1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIzNDY2ZGZmM2E0ZDUwNTgyZjM4YmI1NTM2YjIzZTYyZGNiZDE3Y2JjZmI4NjJjMzhjMjdlOTcwNzhhNjUzNTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OsgO69QuXs9SIiEKgzpyiZRIPxCKU8r8kjjh53e2foU",
       "https://user-images.githubusercontent.com/62783989/246949270-639c07c6-e986-4c06-a03f-6b1f1014cd1f.png",
       "https://user-images.githubusercontent.com/62783989/246949340-da954349-f063-43a4-b928-5ca47311b560.png",
     ],

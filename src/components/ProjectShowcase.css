@@ -16,7 +16,7 @@
 }
 
 .project-image {
-  width: 96;
+  width: auto;
   height: 12rem;
   border-radius: 10px;
   margin-bottom: 10px;
