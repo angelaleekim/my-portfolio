@@ -8,9 +8,12 @@
   padding-right: 5rem;
 }
 
+.logo h1 {
+  font-weight: 500;
+}
+
 .logo {
   margin-left: 1rem;
-  font-weight: 500;
   text-decoration: none;
   color: rgb(62, 62, 62);
   font-family: "Inter";
