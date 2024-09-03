@@ -1,21 +1,3 @@
-body {
-  font-weight: 500;
-  font-family: "Apercu-Regular";
-  color: rgb(62, 62, 62);
-}
-
-h1 {
-  font-weight: 500;
-}
-
-h2,
-h3 {
-  font-weight: 400;
-  font-family: "Gooper";
-  font-style: italic;
-  color: rgb(62, 62, 62);
-}
-
 .text-box {
   margin-top: 10%;
   animation: 1.7s fadeInUp;
@@ -24,11 +6,9 @@ h3 {
 }
 
 .title-1 {
-  font-family: "Gooper";
+  font-weight: 500;
   font-size: 300%;
-  letter-spacing: 4px;
   margin-bottom: 0.5em;
-  font-style: italic;
   text-align: left;
   transition: transform 0.5s ease;
   background: linear-gradient(90deg, #f2a6bd, #444aa7);

@@ -9,10 +9,10 @@ import uncdemo from "../assets/videos/unc-demo.mov";
 const projects = [
   {
     title: "Uncluttered",
-    date: "Frontend Developer | September 2023 - Present",
+    date: "Frontend Developer | September 2023 - June 2024",
     id: 1,
     route: "/uncluttered",
-    description: `I am currently developing and styling React components for a task management web application called Uncluttered, a project created by a team of 5 students at Cal Poly San Luis Obispo.
+    description: `I developed and styled React components for a task management web application called Uncluttered, a project created by a team of 5 students at Cal Poly San Luis Obispo.
 
 As a frontend developer, some of my tasks include wireframing our project in Figma, creating frontend React components such as the welcome and login pages, and styling our entire application with Tailwind. `,
     technologies: ["React", "TailwindCSS", "Figma", "Node.js"],
